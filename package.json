@@ -19,6 +19,7 @@
   "homepage": "https://github.com/kengo1214/typescript_javascript#readme",
   "devDependencies": {
     "ts-node": "^10.5.0",
+    "ts-node-dev": "^1.1.8",
     "typescript": "^4.5.5"
   }
 }
