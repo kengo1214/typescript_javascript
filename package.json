@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kengo1214/typescript_javascript/issues"
   },
-  "homepage": "https://github.com/kengo1214/typescript_javascript#readme"
+  "homepage": "https://github.com/kengo1214/typescript_javascript#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
 }
