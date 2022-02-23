@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-   "test": "echo \"Error: no test specified\" && exit 1",
-   "dev":"ts-node-dev --respawn"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev --respawn"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
     "ts-node": "^10.5.0",
     "ts-node-dev": "^1.1.8",
     "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "axios": "^0.26.0"
   }
 }
