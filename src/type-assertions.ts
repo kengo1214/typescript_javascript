@@ -1,19 +1,19 @@
-export {};
+// export {};
 
 
-//as 〜パターン
+// //as 〜パターン
 
-let name: any = "Kengo";
-let length = (name as string).length;
+// let name: any = "Kengo";
+// let length = (name as string).length;
 
-length = "foo";
+// length = "foo";
 
-//============================
+// //===========================
 
-//<>パターン
+// //<>パターン
 
-let name2: any = "Kengo";
+// let name2: any = "Kengo";
 
-let length = (<string>name).length;
+// let length = (<string>name).length;
 
-length = "foo";
+// length = "foo";
