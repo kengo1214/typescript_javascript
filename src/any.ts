@@ -15,3 +15,5 @@ axios.get(url).then(function (response) {
   data = response.data;
   console.log(data);
 });
+
+// // anyについて学習しました
