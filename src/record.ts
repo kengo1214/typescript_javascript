@@ -2,7 +2,7 @@ export {};
 
 // Record <K,T> は 2つの肩引数を受け取る型
 
-type Prefectures = "Tokyo" | "Kanagawa" | "Nagano";
+type Prefectures = "Tokyo" | "Kanagawa" | "Nagano" | "Okinawa";
 
 type Covid19InfectionInfo = {
   kanji_name: string;
